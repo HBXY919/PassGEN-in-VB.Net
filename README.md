@@ -18,10 +18,11 @@ The generated password will be displayed in the text field and automatically Cop
 
 Screenshots
 
-![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/e0f78e95-a44b-4e22-bcab-1d854336d171)
-![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/198e28cd-5328-4e6c-86b6-20cdb2c3035b)
-![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/a048657c-ae07-46a5-b25f-123aace7fe7c)
-![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/1df0b345-c14b-4b38-9902-5d4562204c4e)
+![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/320b555d-9c3d-4030-8904-1d14286565b8)
+![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/e780548b-6437-4876-9736-a44061f8f283)
+![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/458fbcfc-9c88-43c1-8ffc-91723fb6183e)
+![image](https://github.com/HBXY919/PassGEN-in-VB.Net/assets/85457354/6e681758-f79f-4d9d-b8a5-dffe1e5675be)
+
 
 
 Contributing
